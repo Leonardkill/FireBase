@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612577529642",
+    "firebase_url": "https://etec-firabase-leonardo.firebaseio.com",
+    "project_id": "etec-firabase-leonardo",
+    "storage_bucket": "etec-firabase-leonardo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612577529642:android:791d0a0d80c58472",
+        "android_client_info": {
+          "package_name": "br.com.etechoracio.firebaseleonardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612577529642-0ooeqns3mljv3v9a5j4lc5s47hb5ebdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etechoracio.firebaseleonardo",
+            "certificate_hash": "6c27e96497b2c62e1911f45f543cdb1b6875accc"
+          }
+        },
+        {
+          "client_id": "612577529642-1lsssie2mi51o5f5pddthppfb1n32k9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWPVBaznqMGmP3ErN1l8I4StuBNhFZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612577529642-1lsssie2mi51o5f5pddthppfb1n32k9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
